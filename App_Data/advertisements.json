@@ -1,0 +1,93 @@
+[
+  {
+    "Id": 1,
+    "Title": "iPhone 15",
+    "Description": "Good condition",
+    "Address": "Ezra HaSofer St 2, Tel Aviv-Yafo, İsrail",
+    "Category": "Electronics",
+    "Price": 2200.0,
+    "CreatedDate": "2026-11-12T10:30:00",
+    "UserId": 1,
+    "ImageUrl": "/Images/8b4317c7034b46a8a952dbd48fae8ab3.jpg",
+    "Lat": 32.070030977700583,
+    "Lon": 34.764175932333707
+  },
+  {
+    "Id": 2,
+    "Title": "Samsung TV",
+    "Description": "55 inch Smart TV",
+    "Address": "Ahuza St 98, Ra'anana, 4345002, İsrail",
+    "Category": "Electronics",
+    "Price": 1500.0,
+    "CreatedDate": "2026-11-12T11:30:00",
+    "UserId": 2,
+    "ImageUrl": "/Images/11ee06a1526048a99c3d9e6c26720621.jpg",
+    "Lat": 32.1800369,
+    "Lon": 34.8775703
+  },
+  {
+    "Id": 3,
+    "Title": "Mountain Bike",
+    "Description": "Brand new mountain bike",
+    "Address": "Ahuza St 98, Ra'anana, 4345002, İsrail",
+    "Category": "Sports & Outdoors",
+    "Price": 800.0,
+    "CreatedDate": "2026-11-12T12:30:00",
+    "UserId": 2,
+    "ImageUrl": null,
+    "Lat": 32.1800369,
+    "Lon": 34.8775703
+  },
+  {
+    "Id": 4,
+    "Title": "Leather Sofa",
+    "Description": "Comfortable leather sofa",
+    "Address": "Ezra HaSofer St 2, Tel Aviv-Yafo, İsrail",
+    "Category": "Home & Garden",
+    "Price": 1200.0,
+    "CreatedDate": "2026-11-12T13:30:00",
+    "UserId": 1,
+    "ImageUrl": null,
+    "Lat": 32.0701187,
+    "Lon": 34.7640287
+  },
+  {
+    "Id": 5,
+    "Title": "Handy Man",
+    "Description": "Professional handyman services",
+    "Address": "Ahuza St 142, Ra'anana, İsrail",
+    "Category": "Services",
+    "Price": 2500.0,
+    "CreatedDate": "2026-11-12T14:30:00",
+    "UserId": 2,
+    "ImageUrl": null,
+    "Lat": 32.1816652,
+    "Lon": 34.8715351
+  },
+  {
+    "Id": 6,
+    "Title": "Dining Table Set",
+    "Description": "Wooden dining table with chairs",
+    "Address": "Ahuza St 98, Ra'anana, 4345002, İsrail",
+    "Category": "Home & Garden",
+    "Price": 900.0,
+    "CreatedDate": "2024-11-12T15:30:00",
+    "UserId": 2,
+    "ImageUrl": null,
+    "Lat": 32.1800369,
+    "Lon": 34.8775703
+  },
+  {
+    "Id": 7,
+    "Title": "test",
+    "Description": "test",
+    "Address": "Levi Eshkol St 12, Ra'anana, İsrail",
+    "Category": "Toys & Games",
+    "Price": 10.0,
+    "CreatedDate": "2026-11-14T07:46:56.586Z",
+    "UserId": 2,
+    "ImageUrl": null,
+    "Lat": 32.177151660113147,
+    "Lon": 34.878783338707855
+  }
+]
