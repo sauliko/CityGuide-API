@@ -3,12 +3,12 @@
     "Id": 1,
     "Username": "shaul",
     "Email": "shaul@example.com",
-    "Password": "YWRtaW4@"
+    "Password": "YWRtaW4@" //admin
   },
   {
     "Id": 2,
     "Username": "carmel",
     "Email": "carmel@example.com",
-    "Password": "MTIzNDU2"
+    "Password": "MTIzNDU2" //123456
   }
 ]

@@ -36,7 +36,7 @@ namespace CityGuide.Services
         public List<Advertisement> GetAllAdvertisementByCategory(string category)
         {
             var adByCategory = _repository.GetAll();
-            if (!string.IsNullOrEmpty(category)) {
+            if (!string.IsNullOrWhiteSpace(category)) {
                 adByCategory = adByCategory.Where(a => a.Category.Equals(category, StringComparison.OrdinalIgnoreCase)).ToList();
             }
             return adByCategory;
