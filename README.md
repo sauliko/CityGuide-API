@@ -16,3 +16,5 @@ Nearby ads - GetNearbyAdvertisements?latitude=..&longitude=.. returns ads in 3 k
 
 Login wasn't required in the assignment, I added it so users can only edit/delete their own ads.
 Passwords are just base64 encoded, not hashed - kept it simple since it's only for ownership.
+
+CORS is enabled only for http://localhost:4200, so the UI should run on that port.
