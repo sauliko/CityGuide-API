@@ -1,6 +1,6 @@
 # CityGuide API
 
-.NET Framework 4.8 Web API for the bulletin board assignment.
+ASP.NET Framework 4.8 Web API for the bulletin board assignment.
 Data is saved in json files under App_Data.
 
 To run: open CityGuide.slnx in VS and run
